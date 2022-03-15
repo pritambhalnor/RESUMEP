@@ -2,9 +2,9 @@
 font-family: 'Bebas Neue', cursive;
 font-family: 'League Gothic', sans-serif;
 font-family: 'Philosopher', sans-serif; */
-*{
+/* *{
     margin: 0;padding: 0;
-}
+} */
 .anton{
     font-family: 'Anton', sans-serif;
 }
@@ -22,4 +22,7 @@ font-family: 'Philosopher', sans-serif; */
 }
 .fwb{
     font-weight: bold;
+}
+.tn{
+    text-decoration: none;
 }
